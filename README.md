@@ -1,1 +1,1 @@
-![tryhackme stats](https://raw.githubusercontent.com/greenoff/greenoff/master/assets/thm_propic.png)
+![TryHackMe Stats](https://raw.githubusercontent.com/green-off/green-off/master/assets/thm_propic.png)
