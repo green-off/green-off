@@ -15,5 +15,5 @@ jobs:
 
       - uses: p4p1/tryhackme-badge-workflow@main
         with:
-          username: "YOUR_TRYHACKME_USERNAME"
+          username: "greenoff"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
