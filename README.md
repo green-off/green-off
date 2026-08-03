@@ -1,5 +1,5 @@
 ## Hi there 👋
-![tryhackme stats](https://githubusercontent.com)
+![tryhackme stats](https://raw.githubusercontent.com/green-off/green-off/master/assets/thm_propic.png)
 <!--
 **green-off/green-off** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
